@@ -1,0 +1,7 @@
+{
+  "name": "PRO-ID@DE",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
